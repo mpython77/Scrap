@@ -1,0 +1,200 @@
+2025-02-20 23:10:05,902 - INFO - Starting scraping process...
+2025-02-20 23:10:05,902 - INFO - Initializing Chrome driver...
+2025-02-20 23:10:05,916 - INFO - ====== WebDriver manager ======
+2025-02-20 23:10:07,435 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-20 23:10:08,058 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-20 23:10:08,464 - INFO - Driver [C:\Users\kelaj\.wdm\drivers\chromedriver\win64\133.0.6943.126\chromedriver.exe] found in cache
+2025-02-20 23:10:09,722 - INFO - Chrome driver initialized successfully
+2025-02-20 23:10:09,730 - INFO - Setting filters - View Type: monthly, Period: Februar, Year: 2019, Region: Niš
+2025-02-20 23:10:18,507 - INFO - Waiting for element: /html/body/div[1]/div/div/div[2]/div[2]/div[1]/div/div/button[4]
+2025-02-20 23:10:18,562 - INFO - Element found: /html/body/div[1]/div/div/div[2]/div[2]/div[1]/div/div/button[4]
+2025-02-20 23:10:18,625 - INFO - Attempting to click element
+2025-02-20 23:10:20,850 - INFO - Element clicked successfully
+2025-02-20 23:10:20,851 - INFO - Waiting for element: /html/body/div[1]/div/div/div[2]/div[1]/div/div[2]
+2025-02-20 23:10:20,901 - INFO - Element found: /html/body/div[1]/div/div/div[2]/div[1]/div/div[2]
+2025-02-20 23:10:20,917 - INFO - Attempting to click element
+2025-02-20 23:10:23,053 - INFO - Element clicked successfully
+2025-02-20 23:10:23,053 - INFO - Selecting view type: monthly
+2025-02-20 23:10:23,060 - INFO - Waiting for element: //button[contains(text(), 'Mesečno')]
+2025-02-20 23:10:23,108 - INFO - Element found: //button[contains(text(), 'Mesečno')]
+2025-02-20 23:10:23,124 - INFO - Attempting to click element
+2025-02-20 23:10:25,278 - INFO - Element clicked successfully
+2025-02-20 23:10:25,287 - INFO - Selecting period: Februar
+2025-02-20 23:10:25,287 - INFO - Waiting for element: //div[contains(@class, 'MuiSelect-select')]
+2025-02-20 23:10:25,326 - INFO - Element found: //div[contains(@class, 'MuiSelect-select')]
+2025-02-20 23:10:25,330 - INFO - Attempting to click element
+2025-02-20 23:10:27,489 - INFO - Element clicked successfully
+2025-02-20 23:10:27,511 - INFO - Waiting for element: //li[contains(@class, 'MuiMenuItem-root') and text()='Februar']
+2025-02-20 23:10:27,551 - INFO - Element found: //li[contains(@class, 'MuiMenuItem-root') and text()='Februar']
+2025-02-20 23:10:27,567 - INFO - Attempting to click element
+2025-02-20 23:10:29,725 - INFO - Element clicked successfully
+2025-02-20 23:10:29,771 - INFO - Selecting year: 2019
+2025-02-20 23:10:29,779 - INFO - Waiting for element: (//div[contains(@class, 'MuiSelect-select')])[2]
+2025-02-20 23:10:29,826 - INFO - Element found: (//div[contains(@class, 'MuiSelect-select')])[2]
+2025-02-20 23:10:29,842 - INFO - Attempting to click element
+2025-02-20 23:10:31,962 - INFO - Element clicked successfully
+2025-02-20 23:10:31,968 - INFO - Waiting for element: //li[contains(@class, 'MuiMenuItem-root') and text()='2019']
+2025-02-20 23:10:32,020 - INFO - Element found: //li[contains(@class, 'MuiMenuItem-root') and text()='2019']
+2025-02-20 23:10:32,036 - INFO - Attempting to click element
+2025-02-20 23:10:34,145 - INFO - Element clicked successfully
+2025-02-20 23:10:34,150 - INFO - Selecting region: Niš
+2025-02-20 23:10:34,166 - INFO - Waiting for element: (//div[contains(@class, 'MuiSelect-select')])[3]
+2025-02-20 23:10:34,214 - INFO - Element found: (//div[contains(@class, 'MuiSelect-select')])[3]
+2025-02-20 23:10:34,230 - INFO - Attempting to click element
+2025-02-20 23:10:36,361 - INFO - Element clicked successfully
+2025-02-20 23:10:36,361 - INFO - Waiting for element: //li[contains(@class, 'MuiMenuItem-root') and text()='Niš']
+2025-02-20 23:10:36,422 - INFO - Element found: //li[contains(@class, 'MuiMenuItem-root') and text()='Niš']
+2025-02-20 23:10:36,422 - INFO - Attempting to click element
+2025-02-20 23:10:38,546 - INFO - Element clicked successfully
+2025-02-20 23:10:38,549 - INFO - Waiting for element: //button[contains(text(), 'Primeni')]
+2025-02-20 23:10:38,611 - INFO - Element found: //button[contains(text(), 'Primeni')]
+2025-02-20 23:10:38,626 - INFO - Attempting to click element
+2025-02-20 23:10:42,734 - INFO - Element clicked successfully
+2025-02-20 23:10:42,768 - INFO - Filters applied successfully
+2025-02-20 23:10:42,787 - INFO - Starting data scraping...
+2025-02-20 23:10:44,845 - INFO - Found 123 items across 5 pages
+2025-02-20 23:10:44,857 - INFO - Waiting for element: MuiDataGrid-row
+2025-02-20 23:10:44,889 - INFO - Element found: MuiDataGrid-row
+2025-02-20 23:10:44,925 - INFO - Processing page 1/5 with 10 rows
+2025-02-20 23:10:45,270 - INFO - Processed 5/10 rows on page 1
+2025-02-20 23:10:45,761 - INFO - Processed 10/10 rows on page 1
+2025-02-20 23:10:45,825 - INFO - Page 1 completed in 0.97 seconds
+2025-02-20 23:10:45,825 - INFO - Waiting for element: //button[@aria-label='Sledeća strana']
+2025-02-20 23:10:45,872 - INFO - Element found: //button[@aria-label='Sledeća strana']
+2025-02-20 23:10:45,888 - INFO - Attempting to click element
+2025-02-20 23:10:48,058 - INFO - Element clicked successfully
+2025-02-20 23:10:48,100 - INFO - Moving to page 2
+2025-02-20 23:10:48,116 - INFO - Waiting for element: MuiDataGrid-row
+2025-02-20 23:10:48,132 - INFO - Element found: MuiDataGrid-row
+2025-02-20 23:10:48,148 - INFO - Processing page 2/5 with 10 rows
+2025-02-20 23:10:48,688 - INFO - Processed 5/10 rows on page 2
+2025-02-20 23:10:49,005 - INFO - Processed 10/10 rows on page 2
+2025-02-20 23:10:49,079 - INFO - Page 2 completed in 0.96 seconds
+2025-02-20 23:10:49,096 - INFO - Waiting for element: //button[@aria-label='Sledeća strana']
+2025-02-20 23:10:49,150 - INFO - Element found: //button[@aria-label='Sledeća strana']
+2025-02-20 23:10:49,186 - INFO - Attempting to click element
+2025-02-20 23:10:51,365 - INFO - Element clicked successfully
+2025-02-20 23:10:51,370 - INFO - Moving to page 3
+2025-02-20 23:10:51,390 - INFO - Waiting for element: MuiDataGrid-row
+2025-02-20 23:10:51,419 - INFO - Element found: MuiDataGrid-row
+2025-02-20 23:10:51,443 - INFO - Processing page 3/5 with 10 rows
+2025-02-20 23:10:52,200 - INFO - Processed 5/10 rows on page 3
+2025-02-20 23:10:52,774 - INFO - Processed 10/10 rows on page 3
+2025-02-20 23:10:52,774 - INFO - Page 3 completed in 1.38 seconds
+2025-02-20 23:10:52,790 - INFO - Waiting for element: //button[@aria-label='Sledeća strana']
+2025-02-20 23:10:52,805 - INFO - Element found: //button[@aria-label='Sledeća strana']
+2025-02-20 23:10:52,837 - INFO - Attempting to click element
+2025-02-20 23:10:55,156 - INFO - Element clicked successfully
+2025-02-20 23:10:55,168 - INFO - Moving to page 4
+2025-02-20 23:10:55,173 - INFO - Waiting for element: MuiDataGrid-row
+2025-02-20 23:10:55,204 - INFO - Element found: MuiDataGrid-row
+2025-02-20 23:10:55,236 - INFO - Processing page 4/5 with 10 rows
+2025-02-20 23:10:55,777 - INFO - Processed 5/10 rows on page 4
+2025-02-20 23:10:56,522 - INFO - Processed 10/10 rows on page 4
+2025-02-20 23:10:56,543 - INFO - Page 4 completed in 1.37 seconds
+2025-02-20 23:10:56,556 - INFO - Waiting for element: //button[@aria-label='Sledeća strana']
+2025-02-20 23:10:56,590 - INFO - Element found: //button[@aria-label='Sledeća strana']
+2025-02-20 23:10:56,616 - INFO - Attempting to click element
+2025-02-20 23:10:58,931 - INFO - Element clicked successfully
+2025-02-20 23:10:58,977 - INFO - Moving to page 5
+2025-02-20 23:10:58,992 - INFO - Waiting for element: MuiDataGrid-row
+2025-02-20 23:10:59,026 - INFO - Element found: MuiDataGrid-row
+2025-02-20 23:10:59,057 - INFO - Processing page 5/5 with 10 rows
+2025-02-20 23:10:59,894 - INFO - Processed 5/10 rows on page 5
+2025-02-20 23:11:00,876 - INFO - Processed 10/10 rows on page 5
+2025-02-20 23:11:00,937 - INFO - Page 5 completed in 1.95 seconds
+2025-02-20 23:11:00,951 - INFO - Waiting for element: //button[@aria-label='Sledeća strana']
+2025-02-20 23:11:00,981 - INFO - Element found: //button[@aria-label='Sledeća strana']
+2025-02-20 23:11:01,010 - INFO - Attempting to click element
+2025-02-20 23:11:03,404 - INFO - Element clicked successfully
+2025-02-20 23:11:03,417 - INFO - Moving to page 6
+2025-02-20 23:11:03,431 - INFO - Waiting for element: MuiDataGrid-row
+2025-02-20 23:11:03,463 - INFO - Element found: MuiDataGrid-row
+2025-02-20 23:11:03,490 - INFO - Processing page 6/5 with 10 rows
+2025-02-20 23:11:04,091 - INFO - Processed 5/10 rows on page 6
+2025-02-20 23:11:04,746 - INFO - Processed 10/10 rows on page 6
+2025-02-20 23:11:04,753 - INFO - Page 6 completed in 1.32 seconds
+2025-02-20 23:11:04,760 - INFO - Waiting for element: //button[@aria-label='Sledeća strana']
+2025-02-20 23:11:04,781 - INFO - Element found: //button[@aria-label='Sledeća strana']
+2025-02-20 23:11:04,798 - INFO - Attempting to click element
+2025-02-20 23:11:07,163 - INFO - Element clicked successfully
+2025-02-20 23:11:07,183 - INFO - Moving to page 7
+2025-02-20 23:11:07,196 - INFO - Waiting for element: MuiDataGrid-row
+2025-02-20 23:11:07,224 - INFO - Element found: MuiDataGrid-row
+2025-02-20 23:11:07,249 - INFO - Processing page 7/5 with 10 rows
+2025-02-20 23:11:07,830 - INFO - Processed 5/10 rows on page 7
+2025-02-20 23:11:08,453 - INFO - Processed 10/10 rows on page 7
+2025-02-20 23:11:08,510 - INFO - Page 7 completed in 1.31 seconds
+2025-02-20 23:11:08,519 - INFO - Waiting for element: //button[@aria-label='Sledeća strana']
+2025-02-20 23:11:08,547 - INFO - Element found: //button[@aria-label='Sledeća strana']
+2025-02-20 23:11:08,564 - INFO - Attempting to click element
+2025-02-20 23:11:10,800 - INFO - Element clicked successfully
+2025-02-20 23:11:10,826 - INFO - Moving to page 8
+2025-02-20 23:11:10,835 - INFO - Waiting for element: MuiDataGrid-row
+2025-02-20 23:11:10,866 - INFO - Element found: MuiDataGrid-row
+2025-02-20 23:11:10,889 - INFO - Processing page 8/5 with 10 rows
+2025-02-20 23:11:11,505 - INFO - Processed 5/10 rows on page 8
+2025-02-20 23:11:12,142 - INFO - Processed 10/10 rows on page 8
+2025-02-20 23:11:12,154 - INFO - Page 8 completed in 1.32 seconds
+2025-02-20 23:11:12,168 - INFO - Waiting for element: //button[@aria-label='Sledeća strana']
+2025-02-20 23:11:12,203 - INFO - Element found: //button[@aria-label='Sledeća strana']
+2025-02-20 23:11:12,239 - INFO - Attempting to click element
+2025-02-20 23:11:14,481 - INFO - Element clicked successfully
+2025-02-20 23:11:14,503 - INFO - Moving to page 9
+2025-02-20 23:11:14,515 - INFO - Waiting for element: MuiDataGrid-row
+2025-02-20 23:11:14,545 - INFO - Element found: MuiDataGrid-row
+2025-02-20 23:11:14,574 - INFO - Processing page 9/5 with 10 rows
+2025-02-20 23:11:15,150 - INFO - Processed 5/10 rows on page 9
+2025-02-20 23:11:15,877 - INFO - Processed 10/10 rows on page 9
+2025-02-20 23:11:15,889 - INFO - Page 9 completed in 1.37 seconds
+2025-02-20 23:11:15,897 - INFO - Waiting for element: //button[@aria-label='Sledeća strana']
+2025-02-20 23:11:15,927 - INFO - Element found: //button[@aria-label='Sledeća strana']
+2025-02-20 23:11:15,959 - INFO - Attempting to click element
+2025-02-20 23:11:18,235 - INFO - Element clicked successfully
+2025-02-20 23:11:18,248 - INFO - Moving to page 10
+2025-02-20 23:11:18,260 - INFO - Waiting for element: MuiDataGrid-row
+2025-02-20 23:11:18,287 - INFO - Element found: MuiDataGrid-row
+2025-02-20 23:11:18,308 - INFO - Processing page 10/5 with 10 rows
+2025-02-20 23:11:18,888 - INFO - Processed 5/10 rows on page 10
+2025-02-20 23:11:19,615 - INFO - Processed 10/10 rows on page 10
+2025-02-20 23:11:19,681 - INFO - Page 10 completed in 1.42 seconds
+2025-02-20 23:11:19,695 - INFO - Waiting for element: //button[@aria-label='Sledeća strana']
+2025-02-20 23:11:19,720 - INFO - Element found: //button[@aria-label='Sledeća strana']
+2025-02-20 23:11:19,736 - INFO - Attempting to click element
+2025-02-20 23:11:21,951 - INFO - Element clicked successfully
+2025-02-20 23:11:21,994 - INFO - Moving to page 11
+2025-02-20 23:11:22,008 - INFO - Waiting for element: MuiDataGrid-row
+2025-02-20 23:11:22,035 - INFO - Element found: MuiDataGrid-row
+2025-02-20 23:11:22,055 - INFO - Processing page 11/5 with 10 rows
+2025-02-20 23:11:22,656 - INFO - Processed 5/10 rows on page 11
+2025-02-20 23:11:23,275 - INFO - Processed 10/10 rows on page 11
+2025-02-20 23:11:23,328 - INFO - Page 11 completed in 1.32 seconds
+2025-02-20 23:11:23,338 - INFO - Waiting for element: //button[@aria-label='Sledeća strana']
+2025-02-20 23:11:23,367 - INFO - Element found: //button[@aria-label='Sledeća strana']
+2025-02-20 23:11:23,388 - INFO - Attempting to click element
+2025-02-20 23:11:25,722 - INFO - Element clicked successfully
+2025-02-20 23:11:25,774 - INFO - Moving to page 12
+2025-02-20 23:11:25,785 - INFO - Waiting for element: MuiDataGrid-row
+2025-02-20 23:11:25,817 - INFO - Element found: MuiDataGrid-row
+2025-02-20 23:11:25,849 - INFO - Processing page 12/5 with 10 rows
+2025-02-20 23:11:26,614 - INFO - Processed 5/10 rows on page 12
+2025-02-20 23:11:27,201 - INFO - Processed 10/10 rows on page 12
+2025-02-20 23:11:27,245 - INFO - Page 12 completed in 1.46 seconds
+2025-02-20 23:11:27,257 - INFO - Waiting for element: //button[@aria-label='Sledeća strana']
+2025-02-20 23:11:27,284 - INFO - Element found: //button[@aria-label='Sledeća strana']
+2025-02-20 23:11:27,303 - INFO - Attempting to click element
+2025-02-20 23:11:29,530 - INFO - Element clicked successfully
+2025-02-20 23:11:29,562 - INFO - Moving to page 13
+2025-02-20 23:11:29,576 - INFO - Waiting for element: MuiDataGrid-row
+2025-02-20 23:11:29,602 - INFO - Element found: MuiDataGrid-row
+2025-02-20 23:11:29,626 - INFO - Processing page 13/5 with 3 rows
+2025-02-20 23:11:29,979 - INFO - Page 13 completed in 0.40 seconds
+2025-02-20 23:11:30,013 - INFO - Waiting for element: //button[@aria-label='Sledeća strana']
+2025-02-20 23:11:30,041 - INFO - Element found: //button[@aria-label='Sledeća strana']
+2025-02-20 23:11:30,057 - INFO - Reached last page
+2025-02-20 23:11:30,067 - INFO - Scraping completed. Total rows scraped: 123
+2025-02-20 23:11:30,075 - INFO - Saving 123 records to Excel file: output/real_estate_data_Niš_Februar_2019_20250220_231009.xlsx
+2025-02-20 23:11:30,827 - INFO - Data saved successfully
+2025-02-20 23:11:30,843 - INFO - Data successfully saved to output/real_estate_data_Niš_Februar_2019_20250220_231009.xlsx
+2025-02-20 23:11:35,834 - INFO - Closing browser
+2025-02-20 23:11:38,123 - INFO - Browser closed successfully
