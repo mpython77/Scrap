@@ -20,5 +20,5 @@ A modular Python tool for scraping real estate data from [cenenekretnina.rs](htt
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/real-estate-scraper.git
-   cd real-estate-scraper
+   git clone https://github.com/mpython77/Scrap.git
+   cd Scrap
